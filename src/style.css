@@ -1,0 +1,11 @@
+.err{
+    color: red !important;
+}
+.left{
+    height: 100vh;
+    background:  #726BE6;
+}
+.right{
+    height: 100vh;
+    background:  #726BE6;
+}
